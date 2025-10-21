@@ -70,9 +70,13 @@ const Hero = () => {
           <div className="hero-image">
             <div className="profile-image">
               <img 
-                src="/profile.png" 
+                src={`${process.env.PUBLIC_URL}/profile.png`}
                 alt="Kamal Sherawat" 
                 className="profile-photo"
+                onError={(e) => {
+                  e.target.style.display = 'none';
+                  e.target.parentNode.innerHTML = '<i class="fas fa-user-graduate"></i>';
+                }}
               />
             </div>
           </div>
