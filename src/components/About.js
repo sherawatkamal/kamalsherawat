@@ -15,9 +15,10 @@ const About = () => {
             </p>
             <p>
               With experience in both industry and academia, I bring a unique perspective to 
-              research and development. I'm passionate about advancing AI interpretability, 
-              developing innovative machine learning solutions, and mentoring the next generation 
-              of researchers and engineers.
+              research and development. I'm passionate about building intelligent systems, 
+              scalable web applications, and advancing AI interpretability. I also serve as a 
+              grader for graduate-level ML courses and have built various projects including 
+              GAN-based anime character generators and full-stack web applications.
             </p>
             <h3>Education</h3>
             <ul className="education-list">

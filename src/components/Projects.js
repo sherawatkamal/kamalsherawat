@@ -9,16 +9,34 @@ const Projects = () => {
       technologies: ["Computer Vision", "Machine Learning", "AI", "Python", "Deep Learning"]
     },
     {
-      title: "Image Captioning with CNN-RNN Architecture",
-      period: "March 2025 - April 2025",
-      description: "Created an image captioning model that uses VGG16 and LSTM with GloVe embeddings to generate accurate, natural captions for the Flickr8k dataset, achieving strong BLEU, METEOR, and ROUGE-L scores.",
-      technologies: ["CNN", "RNN", "LSTM", "VGG16", "GloVe", "Computer Vision"]
+      title: "GAN-based Anime Character Generator",
+      period: "2024",
+      description: "Built a Generative Adversarial Network (GAN) using TensorFlow to generate anime character images. This project demonstrates expertise in deep learning and generative models.",
+      technologies: ["TensorFlow", "GAN", "Deep Learning", "Python", "Computer Vision"]
     },
     {
-      title: "AI Study Assistant",
+      title: "MoneyMap Financial Application",
       period: "2024",
-      description: "Built an AI study assistant that automatically recommends relevant notes, videos, and study partners to students based on their learning progress. Secured 1st place at AltCtrl University Hackathon.",
-      technologies: ["AI", "Machine Learning", "Recommendation Systems", "Python"]
+      description: "Developed a comprehensive financial management application with data visualization and analytics features. Built using modern web technologies for scalable financial tracking.",
+      technologies: ["Python", "Web Development", "Data Visualization", "Analytics"]
+    },
+    {
+      title: "Real-Time Chat Application",
+      period: "2024",
+      description: "Created a full-stack real-time chat application with instant messaging capabilities. Features include user authentication, real-time updates, and responsive design.",
+      technologies: ["JavaScript", "WebSocket", "Real-time", "Full-stack"]
+    },
+    {
+      title: "Task Manager API",
+      period: "2024",
+      description: "Designed and implemented a robust task management API with RESTful endpoints. Includes user management, task organization, and database optimization.",
+      technologies: ["JavaScript", "Node.js", "REST API", "Database Design"]
+    },
+    {
+      title: "Weather Website",
+      period: "2024",
+      description: "Built an interactive weather application with real-time data fetching and responsive design. Provides current weather conditions and forecasts.",
+      technologies: ["JavaScript", "API Integration", "Responsive Design", "Web Development"]
     }
   ];
 

@@ -5,22 +5,22 @@ const Contact = () => {
     {
       name: 'LinkedIn',
       icon: 'fab fa-linkedin',
-      url: 'https://linkedin.com/in/kamal-sherawat'
+      url: 'https://www.linkedin.com/in/kamalsherawat/'
     },
     {
       name: 'Google Scholar',
       icon: 'fab fa-google-scholar',
-      url: 'https://scholar.google.com/citations?user=kamal-sherawat'
+      url: 'https://scholar.google.com/citations?hl=en&user=v9wdQewAAAAJ&view_op=list_works&gmla=AH8HC4x72s1RsM6Iv4Yipv6wxg9cemSGU20N7JsSn4R2Lm-iT1-NFx-sq9fOlj_mh4Y2UEh34MHir8SLn2X30QpQ'
     },
     {
       name: 'GitHub',
       icon: 'fab fa-github',
-      url: 'https://github.com/kamal-sherawat'
+      url: 'https://github.com/sherawatkamal'
     },
     {
-      name: 'Website',
+      name: 'Portfolio',
       icon: 'fas fa-globe',
-      url: 'https://kamal-sherawat.vt.edu'
+      url: 'https://sherawatkamal.github.io/kamalsherawat'
     }
   ];
 
