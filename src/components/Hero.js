@@ -68,8 +68,12 @@ const Hero = () => {
             </div>
           </div>
           <div className="hero-image">
-            <div className="placeholder-image">
-              <i className="fas fa-user-graduate"></i>
+            <div className="profile-image">
+              <img 
+                src="/profile.png" 
+                alt="Kamal Sherawat" 
+                className="profile-photo"
+              />
             </div>
           </div>
         </div>
